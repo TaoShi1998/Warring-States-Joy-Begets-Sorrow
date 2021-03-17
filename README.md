@@ -1,2 +1,2 @@
-# Warring-States-Joy-Begets-Sorrow
+# Warring States: Joy Begets Sorrow
 Card Game Design
